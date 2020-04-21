@@ -189,7 +189,7 @@
   color: #fff;
 }
 .sp-simpleportfolio .sp-simpleportfolio-item .sp-vertical-middle .sp-simpleportfolio-title {
-  opacity: 0;
+  opacity: 1;
   -webkit-transform: translate3d(0, 15px, 0);
   transform: translate3d(0, 15px, 0);
   -webkit-transition: all 400ms;
@@ -218,7 +218,7 @@
   border-radius: 100px;
   text-decoration: none;
   text-transform: uppercase;
-  opacity: 0;
+  opacity: 1;
   -webkit-transform: scale3d(0, 0, 0);
   transform: scale3d(0, 0, 0);
   -webkit-transition: all 400ms;
